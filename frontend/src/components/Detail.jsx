@@ -38,7 +38,10 @@ function Detail() {
           </div>
         </div>
       </div>
-      <div className="flex flex-row items-centre justify-center space-x-2 text-white text-sm py-3"></div>
+      <div className="flex flex-row items-centre justify-center space-x-2 text-white text-sm py-3">
+        <UilSun />
+        <p className="fo"></p>
+      </div>
     </div>
   );
 }
